@@ -1,0 +1,20 @@
+Lions 3, Snakes 3
+Tarantulas 1, FC Awesome 0
+Lions 1, FC Awesome 1
+Tarantulas 3, Snakes 1
+Lions 4, Grouches 0
+Owls 2, Bears 2
+Cheetahs 1, Sharks 3
+Bears 4, Grouches 2
+Sharks 2, Owls 2
+Cheetahs 0, Lions 2
+FC Awesome 3, Snakes 1
+Bears 1, Tarantulas 3
+Grouches 2, Owls 1
+Sharks 4, Lions 2
+Cheetahs 1, FC Awesome 4
+Snakes 2, Grouches 2
+Owls 0, Lions 3
+Tarantulas 2, Sharks 2
+Bears 3, Cheetahs 3
+Snakes 4, Owls 1
